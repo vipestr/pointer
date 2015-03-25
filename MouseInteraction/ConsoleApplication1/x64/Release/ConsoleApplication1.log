@@ -1,0 +1,21 @@
+﻿Build started 23.03.2015 23:45:24.
+     1>Project "C:\Users\Sergey\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\x64\vs\install\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\MouseInteraction.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sergey\Documents\Visual Studio 2013\Projects\ConsoleApplication1\x64\Release\MouseInteraction.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\opencv\build\x64\vs\install\x64\vc12\lib opencv_core2410.lib opencv_features2d2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_calib3d2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sergey\Documents\Visual Studio 2013\Projects\ConsoleApplication1\x64\Release\MouseInteraction.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sergey\Documents\Visual Studio 2013\Projects\ConsoleApplication1\x64\Release\MouseInteraction.lib" /MACHINE:X64 x64\Release\Camera.obj
+         x64\Release\main.obj
+         x64\Release\Exception.obj
+         x64\Release\MouseEvents.obj
+         x64\Release\Point.obj
+         x64\Release\RectangleDetection.obj
+         x64\Release\stdafx.obj
+         Generating code
+         Finished generating code
+         ConsoleApplication1.vcxproj -> C:\Users\Sergey\Documents\Visual Studio 2013\Projects\ConsoleApplication1\x64\Release\MouseInteraction.exe
+     1>Done Building Project "C:\Users\Sergey\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.49
